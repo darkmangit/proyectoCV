@@ -1,0 +1,39 @@
+header{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* background: url(fondo.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;*/
+}
+.datospersonales{
+    background: #fdbb2d;
+    height: 400px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    width: auto;
+    margin-top:10px;
+   }
+
+   .estudio{
+    background: #fdbb2d;
+    height: 400px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    width: auto;
+    margin-top:10px;
+
+   }
+
+footer{
+    color:black;
+    background: darkgreen;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

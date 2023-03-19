@@ -1,0 +1,35 @@
+/* body{
+   background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+       
+}*/
+
+
+.enlacemenu{
+    display: flex;
+    background: #a8ff33;
+    color: black;
+    padding: 10px 15px;
+    margin: 2px;
+    text-decoration: none;
+    border: 1px solid black;
+    width: 10%;
+    border-radius: 30px;
+}
+
+.formulario, input{
+    padding: 10px 10px;
+    width: 100%;
+    margin: 5px ;
+    border-radius: 10px;
+    
+    
+    
+}
+    
+.botonenviar{
+    text-align:center;
+}
+footer{
+    text-align: center;
+}

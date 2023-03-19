@@ -1,0 +1,37 @@
+.titulo{
+    color: white;
+    padding: 30px; 
+    text-align: left;
+    -webkit-text-stroke: 2px black;
+    
+   
+}
+body{
+    background-image: url("fondo.jpg"); 
+    background-repeat: no-repeat; 
+    background-size:cover;
+}
+.lista{
+    border-radius: 15px;
+    padding: 15px;
+    background-color: black;
+}
+.lista_texto{
+    color: azure;
+    display: flex;
+    padding: 5px;
+    
+}
+
+footer{
+    color: white;
+    padding: 30px; 
+    text-align: center;
+}
+
+.correo {
+    font-size: 1em;
+    color: white;
+    text-decoration: none;
+    font-family: Franklin Gothic Medium;
+}
